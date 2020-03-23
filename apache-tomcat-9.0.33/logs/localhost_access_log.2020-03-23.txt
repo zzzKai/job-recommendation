@@ -57,3 +57,11 @@
 0:0:0:0:0:0:0:1 - - [23/Mar/2020:03:01:37 -0400] "DELETE /jupiter/history HTTP/1.1" 200 20
 0:0:0:0:0:0:0:1 - - [23/Mar/2020:03:01:39 -0400] "GET /jupiter/history?user_id=1111 HTTP/1.1" 200 525
 0:0:0:0:0:0:0:1 - - [23/Mar/2020:03:01:40 -0400] "GET /jupiter/history?user_id=1111 HTTP/1.1" 200 525
+0:0:0:0:0:0:0:1 - - [23/Mar/2020:03:08:59 -0400] "GET /jupiter/ HTTP/1.1" 200 3956
+0:0:0:0:0:0:0:1 - - [23/Mar/2020:03:08:59 -0400] "GET /jupiter/styles/main.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [23/Mar/2020:03:08:59 -0400] "GET /jupiter/scripts/utils.js HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [23/Mar/2020:03:08:59 -0400] "GET /jupiter/scripts/main.js HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [23/Mar/2020:03:08:59 -0400] "GET /favicon.ico HTTP/1.1" 200 21630
+0:0:0:0:0:0:0:1 - - [23/Mar/2020:03:09:03 -0400] "GET /jupiter/search?user_id=1111&lat=42.4125473&lon=-71.1329569 HTTP/1.1" 200 2
+0:0:0:0:0:0:0:1 - - [23/Mar/2020:03:09:06 -0400] "GET /jupiter/history?user_id=1111 HTTP/1.1" 200 525
+0:0:0:0:0:0:0:1 - - [23/Mar/2020:03:09:14 -0400] "GET /jupiter/search?user_id=1111&lat=42.4125473&lon=-71.1329569 HTTP/1.1" 200 2051
