@@ -1,0 +1,3 @@
+INDEX VERSION 1.131
+/Users/kai/job-recommendation/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1013614730.index
+/jupiter/src/main/java

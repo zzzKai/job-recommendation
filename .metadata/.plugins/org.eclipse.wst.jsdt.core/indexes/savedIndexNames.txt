@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+/Users/kai/job-recommendation/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+3214983726.index
+3538724165.index
+3221880602.index
+1802848979.index
+2077767538.index
+449263514.index
