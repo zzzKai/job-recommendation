@@ -21,7 +21,7 @@ GitHub Job API is a web-based API provided by GitHub so that clients can get rea
 ### Monkey Learn API
 
 Monkey Learn provides a lot different kinds of NPL APIs, and it is also free for very little usage. For job recommendation we need to extract the key words for the job discription, and that can also be used as labels for the job.<br> 
-Monkey Learn is very good, because they provide detail [documentation](https://monkeylearn.com/api/v3/#java) APIs for different langauges.
-The API for key word extraction is 300 times for a month. This is enough for testing and demo, but it can not handle load test or large usage. 
+Monkey Learn is very good, because they provide detail [documentation](https://monkeylearn.com/api/v3/#java) APIs for different langauges.<br>
+The API for key word extraction is 300 times for a month. This is enough for testing and demo, but it can not handle load test or large usage.
 
 
