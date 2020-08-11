@@ -25,7 +25,7 @@ Monkey Learn is very good, because they provide detail [documentation](https://m
 The API for key word extraction is 300 times for a month. This is enough for testing and demo, but it can not handle load test or large usage.
 
 ## Demo
-<img src="https://github.com/zzzKai/job-recommendation/demo1.png">
-<img src="https://github.com/zzzKai/job-recommendation/demo2.png">
-<img src="https://github.com/zzzKai/job-recommendation/demo3.png">
-<img src="https://github.com/zzzKai/job-recommendation/demo4.png">
+<img src="https://github.com/zzzKai/job-recommendation/blob/master/demo/demo1.png">
+<img src="https://github.com/zzzKai/job-recommendation/blob/master/demo/demo2.png">
+<img src="https://github.com/zzzKai/job-recommendation/blob/master/demo/demo3.png">
+<img src="https://github.com/zzzKai/job-recommendation/blob/master/demo/demo4.png">
